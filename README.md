@@ -9,7 +9,7 @@ A python tool to split karaoke songs (romaji syl, char, words) for Aegisub witho
 
 ## Easiest and simplest: Run online without installation
 If you don't want to download the tool just use our web version available here: https://fansubbers.animefn.com/webkarasplitter/
-demo video:
+
 
 
 ## Run on windows:
