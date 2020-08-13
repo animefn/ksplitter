@@ -8,7 +8,7 @@ A python tool to split karaoke songs (romaji syl, char, words) for Aegisub witho
 2. You don't need to know the splitting rules. For example, I see people splitting "tsuki" to t.su.ki or "shinjiru" to shin.ji.ru which is wrong since tsu/n should be 1 syllable (correct form: tsu.ki shi.n.ji.ru). There are some other mistakes I see in  Karaoke too, so this tool should help eliminate those mistakes.
 
 ## Easiest and simplest: Run online without installation
-If you don't want to download the tool just use our web version available here: https://animefn.com/karasplitter/
+If you don't want to download the tool just use our web version available here: https://fansubbers.animefn.com/webkarasplitter/
 demo video:
 
 
