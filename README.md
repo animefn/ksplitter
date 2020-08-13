@@ -5,7 +5,7 @@ A python tool to split karaoke songs (romaji syl, char, words) for Aegisub witho
 ## motivation
 1. it saves a few minutes if you're lazy
 ## Run online without installation
-If you don't want to download the tool just use our web version available here:
+If you don't want to download the tool just use our web version available here: (to be added)
 
 
 ## Run on windows:
@@ -80,4 +80,4 @@ For Hyrbid lines containing
 This tool is provided as is without warrant of any kind.
 Feel free to report bugs.
 
-Provided to you with love from Animefn.com :) 
+Provided to you with love by Animefn.com :) 
