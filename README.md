@@ -1,9 +1,12 @@
 # ksplitter
 A python tool to split karaoke songs (romaji syl, char, words) for Aegisub without having to know the splitting rules for jp romaji. It saves about 10-15 minutes per song, and avoids you the annoying process of having to go through each word and having to split it. the syl splitting mode is intended for use with Japanese romaji and thus follows rules suitable for Japanese only, the result will be weird with other languages.
 
+** Please note: you Still have to adjust the timing of each syllable by yourself, this really just a replacement for the annoying process of going through each line, put separtors and clicking "accept split" in Aegisub **
 
 ## motivation
 1. it saves a few minutes if you're lazy
+2. You don't need to know the splitting rules. I see people splitting "tsuki" for example to t.su.ki which is wrong since tsu should be 1 syllable. There are some other mistakes I see in  Karaoke too, so this tool should help eliminate those mistakes.
+
 ## Run online without installation
 If you don't want to download the tool just use our web version available here: (to be added)
 
